@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm Roy, A Fullstack Software Engineer from <img src="https://github.com/user-attachments/assets/8da6aeb3-0a9c-4c42-b44a-d9175d8f4fa5" width="13"/> <b>Massachusetts, USA</b>. </h2>
 
-<h3>Tools I code and develop with</h3>
+## Tools I code and develop with...
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -18,7 +18,10 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=CSS&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MUI" src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white" />
+  
 
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
