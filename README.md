@@ -44,7 +44,7 @@
   
   <br> Locations: I would most like to work in the Boston, Seattle, Washington D.C., San Antonio, San Diego, Miami, Tucson, Los Angeles, San Fransisco, Portland, Asheville, Honolulu, Denver, and Houston areas. 
   
-  <br> Industries: I am most intrigued by the aerospace, defense, travel, airline, decentralization, banking, economic development, robotics, artificial intelligence, fintech, education, and green technology industries. 
+  <br> Industries: I am most intrigued by the aerospace, defense, travel, airline, decentralization, banking, economic development, robotics, artificial intelligence, agriculture, fintech, education, and green technology industries. 
   
   <br> Roles: I am most excited by embedded, front end, and UX/UI focused software engineering roles. 
 </p>
